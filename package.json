@@ -1,0 +1,18 @@
+{
+  "name": "@davidxhk/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier shareable config",
+  "keywords": [
+    "prettier",
+    "config",
+    "shareable",
+    "formatting",
+    "rules"
+  ],
+  "license": "MIT",
+  "author": "David Xie",
+  "main": ".prettierrc.json",
+  "peerDependencies": {
+    "prettier": ">=3.3.3"
+  }
+}
